@@ -1,0 +1,48 @@
+div {
+
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+
+    background-image: url(../resources/Banner\ Image.png);
+    flex-shrink: 0;
+
+}
+
+.container {
+    background-color: #070211, #07021100;
+
+}
+
+header div h3 {
+    padding-top: 177px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+header div h1 {
+    margin: 0px 344px 177px 344px;
+    display: flex;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+}
+
+main h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

@@ -1,10 +1,8 @@
 * {
     max-width: 1320px;
-
-
 }
 
-div {
+.header {
 
     border-radius: 16px;
     width: 1320px;
@@ -16,12 +14,9 @@ div {
 
 }
 
-.container {
-    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
 
-}
 
-header div h3 {
+.hny{
     padding-top: 177px;
     color: #FFF;
     text-align: center;
@@ -30,7 +25,7 @@ header div h3 {
     font-weight: 400;
 }
 
-header div h1 {
+.nypc{
     margin: 0px 344px 177px 344px;
     display: flex;
     color: #FFF;
@@ -80,4 +75,49 @@ main .Happy-new-year{
     height: 500px;
     flex-shrink: 0;
     margin-left: 250px;
+}
+.midnight{
+    width: 642px;
+    text-align: left;
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 7.04px;
+}
+
+.midnight-paragraph{
+    width: 697px;
+    color: white;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.join-now{
+    color: #FFF;
+text-align: left;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+margin-left: 30px;
+}
+
+.main-banner{
+    padding: 68px 138px 68px 0px;
+    margin-top: 120px;
+    background-image: url(../resources/Vectorrr.png);
+    display: flex;
+    border-radius: 16px;
+}
+
+.main-banner-content{
+    margin-left: 130px;
 }

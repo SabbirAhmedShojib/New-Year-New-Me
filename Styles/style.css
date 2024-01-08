@@ -9,7 +9,7 @@
     height: 600px;
     background-image: url(../resources/Banner\ Image.png);
     flex-shrink: 0;
-    
+
 
 }
 
@@ -240,7 +240,7 @@ main .Happy-new-year {
 }
 
 .holyday-sale {
-    padding-right:300px;
+    padding-right: 300px;
     background-repeat: no-repeat;
     background-image: url(../resources/Rectangle\ 1.png);
     background-position: 78px 6px;
@@ -301,22 +301,97 @@ main .Happy-new-year {
 
 
 
-.flex-image{
+.flex-image {
     display: flex;
 }
 
 
 
-.group-75{
+.group-75 {
     margin-botto: 0%;
 }
-.discount{
-    display:flex;
+
+.discount {
+    display: flex;
     background-image: url(../resources/Rectangle\ 2.png);
     background-repeat: no-repeat;
     background-position: bottom;
 }
 
-.round-discount{
+.round-discount {
     padding-left: 0%;
+}
+
+.the-best-gifts {
+    margin-top: 100px;
+    margin-bottom: 0%;
+    text-align: left;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.Awesome-portfolio {
+    margin-top: 20px;
+    margin-bottom: 0%;
+    text-align: left;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.gift-paragraph {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.products {
+    display: inline-block;
+
+}
+
+.products :hover {
+
+    opacity: 50%;
+    background: #555;
+}
+
+.silver-bag {
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+.red-hill {
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+.sun-glass {
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+.churi {
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    margin-left: 10px;
 }

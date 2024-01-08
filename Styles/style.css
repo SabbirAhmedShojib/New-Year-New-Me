@@ -377,21 +377,101 @@ main .Happy-new-year {
     flex-shrink: 0;
     margin-left: 10px;
 }
+
 .red-hill {
     width: 424px;
     height: 450px;
     flex-shrink: 0;
     margin-left: 10px;
 }
+
 .sun-glass {
     width: 424px;
     height: 450px;
     flex-shrink: 0;
     margin-left: 10px;
 }
+
 .churi {
     width: 424px;
     height: 450px;
     flex-shrink: 0;
     margin-left: 10px;
+}
+
+.subscribe {
+    margin-top: 120px;
+    align-content: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.mail {
+    margin-left: 585px;
+    margin-top: 80px;
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+}
+
+.heading {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 40px;
+}
+
+.mail-paragraph {
+    margin-left: 212px;
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.mail-input {
+    padding: 30px;
+
+}
+
+.placeholder {
+    color: #555;
+    margin-left: 300px;
+    margin-right: 0%;
+    display: inline;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: #fff;
+    border: none;
+
+    width: 450px;
+    height: 72px;
+    flex-shrink: 0;
+
+}
+
+.subs-btn {
+    color: #FFF;
+    text-align: center;
+    margin-left: 0%;
+    margin-right: 0%;
+    display: inline;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background: #F00;
+    border: none;
+    height: 78px;
+    width: 200px;
+    flex-shrink: 0;
+
 }

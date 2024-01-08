@@ -308,7 +308,7 @@ main .Happy-new-year {
 
 
 .group-75 {
-    margin-botto: 0%;
+    margin-bottom: 0%;
 }
 
 .discount {
@@ -477,4 +477,51 @@ main .Happy-new-year {
     width: 200px;
     flex-shrink: 0;
 
+}
+
+.address {
+    max-width: 375px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+.contact {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+.adress-contact {
+    margin: 50px 0px 50px 0px;
+    padding-inline: 100px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.hr-line {
+    color: #454545;
+    padding: auto;
+    background: rgba(255, 255, 255, 0.15);
+    width: 1200px;
+    height: 1px;
+    margin-bottom: 50px;
+}
+.social{
+    margin-bottom: 50px;
+    padding-left: 500px;
+}
+.social img {
+    margin-right: 10px;
+}
+.background{
+    background-color: #070211;
 }
